@@ -34,18 +34,7 @@ I am Muhammad Hassan Asif, a Full Stack Developer and a software developer curre
 
 ## Find me on:
 
-<a href="https://www.linkedin.com/in/muhammad-hassan-asif-7732b737b" target="_blank">
-  <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/share/16oKNGBKkW/" target="_blank">
-  <img alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" />
-</a>
-<a href="mailto:muhammadhassanasif769@gmail.com" target="_blank">
-  <img alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/hassan_asifff?igsh=M3JuYzFoOHlrdmdj" target="_blank">
-  <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
-</a>
+<div align="center"> <a href="https://www.linkedin.com/in/muhammad-hassan-asif-7732b737b" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /></a> <a href="https://www.facebook.com/share/16oKNGBKkW/" target="_blank"><img alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" /></a> <a href="mailto:muhammadhassanasif769@gmail.com" target="_blank"><img alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" /></a> <a href="https://www.instagram.com/hassan_asifff?igsh=M3JuYzFoOHlrdmdj" target="_blank"><img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" /></a> </div>
 
 
 
@@ -58,6 +47,3 @@ I am Muhammad Hassan Asif, a Full Stack Developer and a software developer curre
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
-</p>
