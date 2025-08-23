@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=540&lines=Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=540&lines=Muhammad+Hassan+Asif;Full+Stack+Developer;Software+Engineer;Building+Awesome+Stuff" alt="Typing SVG" />
 </p>
 
 I am Muhammad Hassan Asif, a Full Stack Developer and a software developer currently pursuing degree of software engineering at Bahria University karachi.
