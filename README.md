@@ -1,4 +1,4 @@
-# 🚀 Enhanced Animated GitHub Profile README
+
 
 <div align="center">
 
