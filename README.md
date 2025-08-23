@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&lines=Muhammad+Hassan+Asif;Full+Stack+Developer;Software+Engineer;Building+Awesome+Stuff" alt="Typing SVG" /> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" /> </div>
+
 🛠️ Tech Arsenal
 <table> <tr> <td><b>Programming Languages</b></td> <td>Python, C#, Java, JavaScript, Linux</td> </tr> <tr> <td><b>Frameworks & Libraries</b></td> <td>React, Node.js, Express.js, .NET</td> </tr> <tr> <td><b>Database & Cloud</b></td> <td>MongoDB, SQL</td> </tr> <tr> <td><b>Tools & Platforms</b></td> <td>Git, VS Code, Visual Studio, Kali, NetBeans, Anaconda, MIPS Mars Simulator</td> </tr> </table>
 📊 Most Used Languages
@@ -6,11 +7,6 @@
 
 🔥 GitHub Stats & Streak
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanasif653&theme=radical&hide_border=true"> </div>
-Total Contributions: 62
-
-Current Streak: 1 (Aug 22)
-
-Longest Streak: 2 (Apr 26 - Apr 27)
 
 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanasif653&bg_color=141321&color=a8f3f4&line=626880&point=f8d847&area=true&hide_border=true" /> </div>
