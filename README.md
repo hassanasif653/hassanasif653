@@ -3,15 +3,6 @@
 <table> <tr> <td><b>Programming Languages</b></td> <td>Python, C#, Java, JavaScript, Linux</td> </tr> <tr> <td><b>Frameworks & Libraries</b></td> <td>React, Node.js, Express.js, .NET</td> </tr> <tr> <td><b>Database & Cloud</b></td> <td>MongoDB, SQL</td> </tr> <tr> <td><b>Tools & Platforms</b></td> <td>Git, VS Code, Visual Studio, Kali, NetBeans, Anaconda, MIPS Mars Simulator</td> </tr> </table>
 📊 Most Used Languages
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanasif653&layout=compact&theme=radical" /> </div>
-C#: 33.71%
-
-HTML: 26.43%
-
-CSS: 25.24%
-
-JavaScript: 10.70%
-
-Python: 3.92%
 
 🔥 GitHub Stats & Streak
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanasif653&theme=radical&hide_border=true"> </div>
@@ -21,10 +12,6 @@ Current Streak: 1 (Aug 22)
 
 Longest Streak: 2 (Apr 26 - Apr 27)
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/hassanasif653/hassanasif653/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hassanasif653&theme=radical&no-frame=true&no-bg=true&row=1&column=7" /> </div>
 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanasif653&bg_color=141321&color=a8f3f4&line=626880&point=f8d847&area=true&hide_border=true" /> </div>
 🤝 Let's Connect
